@@ -6,3 +6,10 @@ Here is my grocery list:
 - Chocolate
 - Horseradish
 - Beans
+- Cheese
+- Hamburger
+- Chips
+- beer
+-chips
+-sugar
+-spice
