@@ -7,6 +7,6 @@ Here is my grocery list:
 - Horseradish
 - Cheese
 - Hamburger
+-chips
 -sugar
 -spice
-
