@@ -5,6 +5,7 @@ Here is my grocery list:
 - Eggs
 - Chocolate
 - Horseradish
+- Oranges
 - Beans
 - Cheese
 - Hamburger
