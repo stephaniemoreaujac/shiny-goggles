@@ -7,8 +7,8 @@ Here is my grocery list:
 - Horseradish
 - Cheese
 - Hamburger
+- Chips
 - beer
 -chips
 -sugar
 -spice
-
